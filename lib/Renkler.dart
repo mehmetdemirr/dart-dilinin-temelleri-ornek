@@ -1,0 +1,3 @@
+enum Renkler{
+  Beyaz,Siyah
+}
